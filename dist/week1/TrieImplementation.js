@@ -52,6 +52,6 @@ function main() {
     for (const vals of wordsList) {
         trie.addWord(vals);
     }
-    console.log(trie.searchWord("germany"));
+    console.log(trie.searchWord("austria"));
 }
 main();
