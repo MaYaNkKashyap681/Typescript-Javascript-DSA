@@ -1,1 +1,1 @@
-Typescript Javascript DSA Problem Solving Repository  
+Typescript Javascript DSA Repository
